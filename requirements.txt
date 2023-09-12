@@ -1,4 +1,4 @@
-python=3.9
+python ==3.9
 streamlit
 plotly==5.3.1
 seaborn
