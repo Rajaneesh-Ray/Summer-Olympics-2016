@@ -1,5 +1,5 @@
 python ==3.9
 streamlit==22.0.3
-plotly==22.0.3
+plotly==5.3.1
 seaborn
 matplotlib
